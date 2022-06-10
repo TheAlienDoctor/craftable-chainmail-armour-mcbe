@@ -1,0 +1,24 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:chain_helmet"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "###",
+            "# #"
+        ],
+        "key": {
+            "#": {
+                "item": "chain"
+            }
+        },
+        "result": {
+            "item": "chain",
+            "count": 1
+        }
+    }
+}
