@@ -1,9 +1,9 @@
 ﻿{
     "format_version": 2,
     "header": {
-        "description": "§9PACK DESCRIPTION §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
-        "name": "§1Alien's §ePack name §4(V1.0.0)",
-        "uuid": "UUID1 HERE",
+        "description": "§9Lets you craft chain armour using chains §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0§r",
+        "name": "§1Alien's §eCraftable chain armour §4(V1.0.0)§r",
+        "uuid": "e078a16a-966a-4fd9-9fc5-d86fa52fc72d",
         "version": [
             1,
             0,
@@ -11,15 +11,15 @@
         ],
         "min_engine_version": [
             1,
-            18,
+            19,
             0
         ]
     },
     "modules": [
         {
-            "description": "§9PACK DESCRIPTION §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0",
-            "type": "resources | data",
-            "uuid": "UUID2 HERE",
+            "description": "§9Lets you craft chain armour using chains §r| §1by TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0§r",
+            "type": "data",
+            "uuid": "89d2e21e-3f63-4423-8b42-41c46e8ed4a5",
             "version": [
                 1,
                 0,
