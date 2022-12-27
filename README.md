@@ -1,4 +1,4 @@
-# Pack name
+# Craftable Chainmail - Minecraft Bedrock behaviour pack
 ## Information
 This pack allowes you to craft chainmail armour using chains. Each armour piece can be crafting using chains in the usual crafting shape for that armour type.
 ## Download
