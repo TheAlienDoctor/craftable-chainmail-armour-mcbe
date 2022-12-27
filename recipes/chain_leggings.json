@@ -1,25 +1,25 @@
 {
-    "format_version": "1.12",
-    "minecraft:recipe_shaped": {
-        "description": {
-            "identifier": "minecraft:chain_leggings"
-        },
-        "tags": [
-            "crafting_table"
-        ],
-        "pattern": [
-            "###",
-            "# #",
-            "# #"
-        ],
-        "key": {
-            "#": {
-                "item": "chain"
-            }
-        },
-        "result": {
-            "item": "chain",
-            "count": 1
-        }
-    }
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "minecraft:chain_leggings"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"###",
+			"# #",
+			"# #"
+		],
+		"key": {
+			"#": {
+				"item": "chain"
+			}
+		},
+		"result": {
+			"item": "chainmail_leggings",
+			"count": 1
+		}
+	}
 }
